@@ -1,0 +1,53 @@
+{
+"NewEraNFT": [
+  {
+    "id": 0,
+    "name": "Frieda",
+    "image": "images/scottish-terrier.jpeg",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "image": "images/scottish-terrier.jpeg",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "image": "images/french-bulldog.jpeg",
+    "price": 2,
+    "rarity": "Common"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "image": "images/boxer.jpeg",
+    "price": 2,
+    "rarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "image": "images/french-bulldog.jpeg",
+    "price": 2,
+    "rarity": "Common"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "image": "images/french-bulldog.jpeg",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "image": "images/golden-retriever.jpeg",
+    "price": 3,
+    "rarity": "Epic"
+  }
+]
+}
