@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "NE#869",
+    "image": "images/0.png",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 1,
+    "name": "NE#6261",
+    "image": "images/1.png",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "NE#4913",
+    "image": "images/2.png",
+    "price": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 3,
+    "name": "NE#6303",
+    "image": "images/3.png",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "NE#0909",
+    "image": "images/4.png",
+    "price": 3,
+    "rarity": "Rare"
+  },
+  {
+    "id": 5,
+    "name": "NE#4578",
+    "image": "images/5.png",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 6,
+    "name": "NE#0987",
+    "image": "images/6.png",
+    "price": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 7,
+    "name": "NE#332",
+    "image": "images/7.png",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 8,
+    "name": "NE#1867",
+    "image": "images/8.png",
+    "price": 3,
+    "rarity": "Common"
+  },
+  {
+    "id": 9,
+    "name": "NE#0011",
+    "image": "images/9.png",
+    "price": 3,
+    "rarity": "Common"
+  }
+]
